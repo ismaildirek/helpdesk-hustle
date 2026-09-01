@@ -5,6 +5,7 @@
 [Bb]uilds/
 [Ll]ogs/
 UserSettings/
+.utmp/
 
 .vscode/
 .vs/
@@ -16,3 +17,18 @@ UserSettings/
 *.tmp
 *.user
 *.userprefs
+
+# Local recovery, generated previews, and validation artifacts
+Assets/_Recovery/
+Assets/_Recovery.meta
+MusicPreviews/
+Music_Previews/
+Tools/__pycache__/
+Tools/preview_*.png
+Tools/contact_sheet.png
+TestResults*.xml
+UpgradeLog.htm
+
+# Licensed Unity Asset Store source files must not be redistributed publicly
+Assets/Casual & Relaxing Game Music/
+Assets/Casual & Relaxing Game Music.meta

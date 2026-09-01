@@ -6,8 +6,56 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Giris_Ekran.unity
+    guid: d96bb0492ddbb744388b7c95ff584cfe
+  - enabled: 1
+    path: Assets/Scenes/YeniOfis.unity
+    guid: 30d313a0494a63045ba0957417b8188c
+  - enabled: 1
+    path: Assets/Scenes/katlar.unity
+    guid: c5a875601e44ae148ac9bb099d030d78
+  - enabled: 1
+    path: Assets/Scenes/kablo_game.unity
+    guid: 76ed1f18b7705f04da972c4c62166f1b
+  - enabled: 1
+    path: "Assets/Scenes/Dosya_Y\xFCkle.unity"
+    guid: bdfdb388847a90745a1d2a027bba2f43
+  - enabled: 1
+    path: "Assets/Scenes/vir\xFCs.unity"
+    guid: 5a3403ce3c248124193331459ba47040
+  - enabled: 1
+    path: Assets/Scenes/bozukkasa.unity
+    guid: 1da15c9fe27369248949b9bc33b88b58
+  - enabled: 1
+    path: "Assets/Scenes/bozukmonit\xF6r.unity"
+    guid: 95d699840847e044e9361253217bcce0
+  - enabled: 0
+    path: Assets/Scenes/ESkiAnaOfis.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/modem.unity
+    guid: 0b43851564be5f740af2c382dacf5f91
+  - enabled: 1
+    path: Assets/Scenes/wifi_sinyal.unity
+    guid: c6edabe2306deb644979ed6b88e1d348
+  - enabled: 1
+    path: Assets/Scenes/e_posta.unity
+    guid: b1ac50614d99943438eb05dce6e737d9
+  - enabled: 1
+    path: "Assets/Scenes/kasa_par\xE7a.unity"
+    guid: 9731c79c5ff1fdf4d8da3c31e213052f
+  - enabled: 1
+    path: Assets/Scenes/popup_ads.unity
+    guid: e99853bf6efe9044d96896093d499740
+  - enabled: 1
+    path: Assets/Scenes/pasword_game.unity
+    guid: 1aeb29bf1828c4946954bf0cd537875d
+  - enabled: 1
+    path: Assets/Scenes/Server_Cooling.unity
+    guid: 708ed419eda61b14d910307fbd170f52
+  - enabled: 1
+    path: Assets/Scenes/Security_check.unity
+    guid: 8ca8d266d953c11428e2d195c34d36e4
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

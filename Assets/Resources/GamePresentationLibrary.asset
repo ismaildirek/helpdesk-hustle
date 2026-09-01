@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9545c7fb9be7a3542a11bd6a46ef24f7, type: 3}
+  m_Name: GamePresentationLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::GamePresentationLibrary
+  forestMusic: {fileID: 8300000, guid: 5b1ed8fbe89154eaf96723b6e5f0aad3, type: 3}
+  happyMusic: {fileID: 8300000, guid: bea93a38b71b64b598109b3a3b1a0048, type: 3}
+  miniGameMusic:
+  - sceneName: kablo_game
+    clips:
+    - {fileID: 8300000, guid: e09fa53ad2d7e7b4cb11e565c81da44e, type: 3}
+    gain: 0.16
+  - sceneName: "Dosya_Y\xFCkle"
+    clips:
+    - {fileID: 8300000, guid: 629342e0fca3ce14c84c627c060b41f3, type: 3}
+    - {fileID: 8300000, guid: 0886d1e29c1e53840bbf9ccee8115c0d, type: 3}
+    gain: 0.16
+  - sceneName: "vir\xFCs"
+    clips:
+    - {fileID: 8300000, guid: c0d522c82e9a9774eb82d1a1e7f49ec6, type: 3}
+    - {fileID: 8300000, guid: 86d3182862e8552408d7e3d23c7b67bf, type: 3}
+    gain: 0.16
+  - sceneName: bozukkasa
+    clips:
+    - {fileID: 8300000, guid: 8494ea101773b8c42988145f8faa00eb, type: 3}
+    gain: 0.16
+  - sceneName: "bozukmonit\xF6r"
+    clips:
+    - {fileID: 8300000, guid: 0af00f11583baba48918acfc678b9387, type: 3}
+    - {fileID: 8300000, guid: 2ad9f22452f62984c80fd02630074955, type: 3}
+    gain: 0.16
+  - sceneName: e_posta
+    clips:
+    - {fileID: 8300000, guid: 4428755c15fb3614f9cd56c718e37b41, type: 3}
+    gain: 0.16
+  - sceneName: popup_ads
+    clips:
+    - {fileID: 8300000, guid: ecacde5219f6d854cb03251101b30c1f, type: 3}
+    gain: 0.16
+  - sceneName: pasword_game
+    clips:
+    - {fileID: 8300000, guid: 10246ea5e9db977448dd20a4b6866c78, type: 3}
+    gain: 0.16
+  - sceneName: wifi_sinyal
+    clips:
+    - {fileID: 8300000, guid: 4384ffd5f75cb124e9bd78c2068c89d9, type: 3}
+    gain: 0.16
+  - sceneName: modem
+    clips:
+    - {fileID: 8300000, guid: 8c82661c9733e4e468addeebffa70947, type: 3}
+    gain: 0.16
+  - sceneName: "kasa_par\xE7a"
+    clips:
+    - {fileID: 8300000, guid: 3343699b111d38549a1647f8b0df480a, type: 3}
+    - {fileID: 8300000, guid: 22c85b5800227e341bccc3820a7a0c26, type: 3}
+    gain: 0.16
+  - sceneName: Server_Cooling
+    clips:
+    - {fileID: 8300000, guid: b89ab7da27986ab499c942406ed37ab0, type: 3}
+    gain: 0.16
+  - sceneName: Security_check
+    clips:
+    - {fileID: 8300000, guid: 33b1c331b9a72504b88cc51d1f83f324, type: 3}
+    gain: 0.16
+  displayFont: {fileID: 12800000, guid: d9e9304a87bc29242bce39896e88ac58, type: 3}
+  resumeIcon: {fileID: 21300000, guid: b5dbb163cdf6cc241a34c66e59be508e, type: 3}
